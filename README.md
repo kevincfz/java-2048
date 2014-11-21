@@ -6,6 +6,7 @@ java-2048
 ######To run this game, first run the following to compile:
 
 ```bash
+make clean
 make
 ```
 ######then you can use the following java command to run the game:

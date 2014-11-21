@@ -18,8 +18,6 @@
 # Name of package containing main procedure 
 PACKAGE = game2048
 
-STYLEPROG = style61b
-
 # Targets that don't correspond to files, but are to be treated as commands.
 .PHONY: default check clean style
 
@@ -30,6 +28,4 @@ default:
 clean:
 	$(RM) *~ 
 	$(MAKE) -C $(PACKAGE) clean
-	$(MAKE) -C testing clean
-
 
