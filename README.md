@@ -14,4 +14,4 @@ make
 java game2048.Main
 ```   
 
-*Note: This is a CS 61B course project of University of California, Berkeley*
+<sub>*Note: This is a CS 61B course project of University of California, Berkeley*</sub>
